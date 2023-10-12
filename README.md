@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gitcoindev
+- 👋 Hi, I’m @gitcoindev. I get things done.
 
 <!---
 gitcoindev/gitcoindev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
